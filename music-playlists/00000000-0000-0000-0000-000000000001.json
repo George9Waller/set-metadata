@@ -5,7 +5,7 @@
   "kind": "favourites",
   "description": "",
   "createdAt": "2026-09-13 22:14:20",
-  "updatedAt": "2026-09-13T22:34:59.009Z",
+  "updatedAt": "2026-09-13T22:45:51.465Z",
   "items": [
     {
       "id": "4260f93f-0d0a-44eb-974d-fec7c8401d5f",
@@ -118,6 +118,70 @@
         "key": "Dom Dolla/Dom_Dolla_Live_@_Drumsheds_London_2024.mp3"
       },
       "position": 13
+    },
+    {
+      "id": "c871fcb0-66c5-479a-ba63-7e775bc2efe0",
+      "trackRef": {
+        "source": "metadata-repository",
+        "key": "Schak/Schak_The_Lab_London_Mixmag.mp3"
+      },
+      "position": 14
+    },
+    {
+      "id": "8461d384-9f31-4a1b-99fa-1eda88e7efa4",
+      "trackRef": {
+        "source": "metadata-repository",
+        "key": "Faithless Soundsystem/Faithless Soundsystem - Live on Radio 1 Essential Mix (26.02.20).mp3"
+      },
+      "position": 15
+    },
+    {
+      "id": "fcf8d44c-723a-49bc-a9ec-427457d6b0b7",
+      "trackRef": {
+        "source": "metadata-repository",
+        "key": "Daði Freyr/Daoi_Freyr_-_Live_@_Roundhouse_London_2022.mp3"
+      },
+      "position": 16
+    },
+    {
+      "id": "7bd4d058-232b-4fb3-8024-b3e547d26778",
+      "trackRef": {
+        "source": "metadata-repository",
+        "key": "BICEP present CHROMA AV DJ @ Electric Castle 2025 [0ZJqGTejbFU].opus"
+      },
+      "position": 17
+    },
+    {
+      "id": "cb1cd68b-48bf-41cc-9c5f-06c76e63444e",
+      "trackRef": {
+        "source": "metadata-repository",
+        "key": "Purple Disco Machine - PARADISE Live in Dresden 2025 [yPs8SyTQtqg].opus"
+      },
+      "position": 18
+    },
+    {
+      "id": "55d6d097-5be7-4924-9665-5a9c40fdb184",
+      "trackRef": {
+        "source": "metadata-repository",
+        "key": "Patrick Topping/Patrick Topping DJ Set Live @ Trick Edinburgh 2023 [0L9a8ADDDes].opus"
+      },
+      "position": 19
+    },
+    {
+      "id": "ded16ead-95b5-41da-a414-e9e6516e7f7c",
+      "trackRef": {
+        "source": "metadata-repository",
+        "key": "Confidence Man Live From 3Olympia Theatre, Dublin [-YmlEDjFfgM].opus"
+      },
+      "position": 20
+    },
+    {
+      "id": "9969f1d1-e8f4-4d7b-99e4-430cf767dc44",
+      "trackRef": {
+        "source": "metadata-repository",
+        "key": "Ben Hemsley/Ben_Hemsley_-_Angel_Of_The_North_Live_Stream_Ministry_of_Sound.mp3"
+      },
+      "position": 21
     }
   ]
 }

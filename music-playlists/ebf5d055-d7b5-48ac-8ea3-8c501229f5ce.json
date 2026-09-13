@@ -5,7 +5,7 @@
   "kind": "named",
   "description": "",
   "createdAt": "2026-09-13T22:24:18.779Z",
-  "updatedAt": "2026-09-13T22:26:19.644Z",
+  "updatedAt": "2026-09-13T22:45:51.464Z",
   "items": [
     {
       "id": "8e0f407c-02e1-413c-90c9-e6a779eef5f6",
@@ -286,6 +286,38 @@
         "key": "Everything Always (Dom Dolla & John Summit) Live @ Ultra Music Festival 2025 [9ZqJPIbTme4].opus"
       },
       "position": 34
+    },
+    {
+      "id": "d5a9607e-8037-41b1-9d60-1b474e1d32dd",
+      "trackRef": {
+        "source": "metadata-repository",
+        "key": "Duke Dumont/Duke Dumont - DJ Set at Steelyard, Creamfields 2025 [EiTiJHgf0NA].opus"
+      },
+      "position": 35
+    },
+    {
+      "id": "a1ab2bd5-50f1-4c11-95af-42c31d0cf33b",
+      "trackRef": {
+        "source": "metadata-repository",
+        "key": "Honey Dijon/Honey Dijon DJ set Barcelona ｜ Burn Energy Tour x Mixmag - 20241220.opus"
+      },
+      "position": 36
+    },
+    {
+      "id": "146bffe4-6c2c-4ac5-a612-dc20c718f5b5",
+      "trackRef": {
+        "source": "metadata-repository",
+        "key": "Floorplan/Floorplan - Live on Radio 1 Essential Mix (27.05.17).mp3"
+      },
+      "position": 37
+    },
+    {
+      "id": "8b195ee8-6c39-44ff-ac2f-d56787c74ed1",
+      "trackRef": {
+        "source": "metadata-repository",
+        "key": "Purple Disco Machine/Purple Disco Machine - Live on Radio 1 Essential Mix (21.10.17).mp3"
+      },
+      "position": 38
     }
   ]
 }
