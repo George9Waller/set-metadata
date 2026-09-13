@@ -2,6 +2,7 @@
   "schemaVersion": 1,
   "id": "8f6daca1-5db9-4d48-b217-94aacb0d3cf0",
   "name": "Echo nano",
+  "destinationRoot": "sets",
   "playlistIds": [
     "e711a003-b987-4573-aee2-7a783a6d9b42",
     "ebf5d055-d7b5-48ac-8ea3-8c501229f5ce"
