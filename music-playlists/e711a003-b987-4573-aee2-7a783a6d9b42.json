@@ -4,7 +4,7 @@
   "name": "Pop",
   "description": "",
   "createdAt": "2026-09-13T21:18:52.985Z",
-  "updatedAt": "2026-09-13T21:19:10.991Z",
+  "updatedAt": "2026-09-13T22:36:45.536Z",
   "items": [
     {
       "id": "16231ff6-379c-4c10-b6b3-34c7afa93449",
@@ -29,6 +29,22 @@
         "key": "Becky Hill/Radio 1's Dance Weekend, Dance Anthems Ibiza, Becky Hill.mp4"
       },
       "position": 2
+    },
+    {
+      "id": "79ba48d5-89a0-4b94-bc8e-5cfe5fcd4a08",
+      "trackRef": {
+        "source": "metadata-repository",
+        "key": "James Hype - London Sunset DJ Set (Magazine Open-Air 2026) [o52iNJx19a8].opus"
+      },
+      "position": 3
+    },
+    {
+      "id": "e007d427-5aa2-4973-8f91-ebc1ea580c5d",
+      "trackRef": {
+        "source": "metadata-repository",
+        "key": "SYNTHONY Live at Sydney Opera House Forecourt (Full Concert) [XufXRkd6jek].opus"
+      },
+      "position": 4
     }
   ]
 }
