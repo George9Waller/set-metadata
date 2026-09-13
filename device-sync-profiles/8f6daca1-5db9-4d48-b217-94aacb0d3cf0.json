@@ -5,7 +5,8 @@
   "destinationRoot": "sets",
   "playlistIds": [
     "e711a003-b987-4573-aee2-7a783a6d9b42",
-    "ebf5d055-d7b5-48ac-8ea3-8c501229f5ce"
+    "ebf5d055-d7b5-48ac-8ea3-8c501229f5ce",
+    "00000000-0000-0000-0000-000000000001"
   ],
   "transcodeProfile": {
     "preset": "mp3",
