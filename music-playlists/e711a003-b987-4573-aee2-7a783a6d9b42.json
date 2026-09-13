@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "e711a003-b987-4573-aee2-7a783a6d9b42",
+  "name": "Pop",
+  "description": "",
+  "createdAt": "2026-09-13T21:18:52.985Z",
+  "updatedAt": "2026-09-13T21:19:10.991Z",
+  "items": [
+    {
+      "id": "16231ff6-379c-4c10-b6b3-34c7afa93449",
+      "trackRef": {
+        "source": "metadata-repository",
+        "key": "MIKA/MIKA_BERCY_2024_-_ACCOR_ARENA_PARIS_25.03.24.mp3"
+      },
+      "position": 0
+    },
+    {
+      "id": "687a4429-9129-4757-b203-1059e273b912",
+      "trackRef": {
+        "source": "metadata-repository",
+        "key": "Becky Hill/Becky_Hill_-_Believe_Me_Now_Album_Launch_Party_Mixmag.mp3"
+      },
+      "position": 1
+    },
+    {
+      "id": "a9d5733c-d9f1-4b2c-9e57-ee9220764ae3",
+      "trackRef": {
+        "source": "metadata-repository",
+        "key": "Becky Hill/Radio 1's Dance Weekend, Dance Anthems Ibiza, Becky Hill.mp4"
+      },
+      "position": 2
+    }
+  ]
+}
