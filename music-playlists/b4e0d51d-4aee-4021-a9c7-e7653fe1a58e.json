@@ -5,7 +5,7 @@
   "kind": "named",
   "description": "",
   "createdAt": "2026-11-02T21:26:53.283Z",
-  "updatedAt": "2026-11-02T21:33:26.364Z",
+  "updatedAt": "2026-11-02T21:40:57.263Z",
   "items": [
     {
       "id": "76d99888-a6c7-46b3-b032-ec17a6373267",
@@ -158,6 +158,38 @@
         "key": "Above & Beyond/Above & Beyond - Live @ Radio 1 Party, Cream, Privilege in Ibiza (02.08.14).mp3"
       },
       "position": 18
+    },
+    {
+      "id": "6fce1281-b9cd-4b18-9b30-1362ada288f0",
+      "trackRef": {
+        "source": "metadata-repository",
+        "key": "Dan Shake/Dan Shake - Live on Radio 1 Essential Mix (11.06.22).mp3"
+      },
+      "position": 19
+    },
+    {
+      "id": "dd4dffb1-08d2-43c4-991d-8a1e8845e7b9",
+      "trackRef": {
+        "source": "metadata-repository",
+        "key": "Floorplan/Floorplan - Live on Radio 1 Essential Mix (27.05.17).mp3"
+      },
+      "position": 20
+    },
+    {
+      "id": "aaa726ca-d1ae-4616-8333-86b6162f40a5",
+      "trackRef": {
+        "source": "metadata-repository",
+        "key": "Prospa/Prospa - Essential Mix (Full Audio) [I63V4aJuyPA].opus"
+      },
+      "position": 21
+    },
+    {
+      "id": "05069fdd-9316-4b41-822e-a6320d2d1f55",
+      "trackRef": {
+        "source": "metadata-repository",
+        "key": "Radio 1's Essential Mix, Ben Sterling.mp4"
+      },
+      "position": 22
     }
   ]
 }

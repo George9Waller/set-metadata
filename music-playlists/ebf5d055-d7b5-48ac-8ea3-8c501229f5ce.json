@@ -5,7 +5,7 @@
   "kind": "named",
   "description": "",
   "createdAt": "2026-09-13T22:24:18.779Z",
-  "updatedAt": "2026-09-13T22:45:51.464Z",
+  "updatedAt": "2026-11-02T21:40:57.282Z",
   "items": [
     {
       "id": "8e0f407c-02e1-413c-90c9-e6a779eef5f6",
@@ -318,6 +318,22 @@
         "key": "Purple Disco Machine/Purple Disco Machine - Live on Radio 1 Essential Mix (21.10.17).mp3"
       },
       "position": 38
+    },
+    {
+      "id": "0002d4d5-da53-4bfd-82fb-07ba50090d6f",
+      "trackRef": {
+        "source": "metadata-repository",
+        "key": "Radio 1's Classic Essential Mix, William Orbit 2000.mp4"
+      },
+      "position": 39
+    },
+    {
+      "id": "9f85d74f-65a1-4380-843e-906c09cbe4c5",
+      "trackRef": {
+        "source": "metadata-repository",
+        "key": "Radio 1's Classic Essential Mix, Marlon Hoffstadt 2024.mp4"
+      },
+      "position": 40
     }
   ]
 }
