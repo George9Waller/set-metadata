@@ -1,10 +1,163 @@
 {
   "schemaVersion": 1,
   "id": "b4e0d51d-4aee-4021-a9c7-e7653fe1a58e",
-  "name": "Travel",
+  "name": "Travel - picks",
   "kind": "named",
   "description": "",
   "createdAt": "2026-11-02T21:26:53.283Z",
-  "updatedAt": "2026-11-02T21:26:53.283Z",
-  "items": []
+  "updatedAt": "2026-11-02T21:33:26.364Z",
+  "items": [
+    {
+      "id": "76d99888-a6c7-46b3-b032-ec17a6373267",
+      "trackRef": {
+        "source": "metadata-repository",
+        "key": "Chris Lake/Chris Lake LIVE from Brooklyn Storehouse 2025 ｜ Chemistry Release Weekend [mHp7y-9oKOk].opus"
+      },
+      "position": 0
+    },
+    {
+      "id": "a52f6ae8-3cd9-4a71-8686-1879476754f5",
+      "trackRef": {
+        "source": "metadata-repository",
+        "key": "MK live @ Creamfields 2024 [kfquBvVAKPw].opus"
+      },
+      "position": 1
+    },
+    {
+      "id": "1c7b0550-9f29-4fbf-b0dd-04d93b4895c2",
+      "trackRef": {
+        "source": "metadata-repository",
+        "key": "FISHER/FISHER LIVE FROM TOMORROWLAND MAINSTAGE 2025 [vxNvRHhxBfo].opus"
+      },
+      "position": 2
+    },
+    {
+      "id": "073793c9-87e7-4297-87fb-e3575950f2c1",
+      "trackRef": {
+        "source": "metadata-repository",
+        "key": "Sonny Fodera/Sonny Fodera Live from Alexandra Palace, London 2024 [IVceSlZRDbo].opus"
+      },
+      "position": 3
+    },
+    {
+      "id": "29b9d3d0-2ff0-4e87-bd84-a917887fabe5",
+      "trackRef": {
+        "source": "metadata-repository",
+        "key": "Alesso (Body Hi) B2B Gorgon City Live @ Coachella 2025 - Quasar Stage [KpNtP9lG6Sk].opus"
+      },
+      "position": 4
+    },
+    {
+      "id": "e578bec8-a2bc-43ea-906f-571c9530e0a7",
+      "trackRef": {
+        "source": "metadata-repository",
+        "key": "KETTAMA x Josh Baker x Prospa - Live From Coachella 2026 [zVrVHMf7k74].opus"
+      },
+      "position": 5
+    },
+    {
+      "id": "e57006bc-5825-4a95-9463-f6725fb5f849",
+      "trackRef": {
+        "source": "metadata-repository",
+        "key": "Ben Sterling B2B Prospa Pop Up in NYC ｜ RAW CUTS [-t_aJL0OKM0].opus"
+      },
+      "position": 6
+    },
+    {
+      "id": "5939949a-c936-4505-9b21-9cb430ec31e7",
+      "trackRef": {
+        "source": "metadata-repository",
+        "key": "Becky Hill/Becky_Hill_Full_Set_Capital_Dance_Live_In_Ibiza.mp3"
+      },
+      "position": 7
+    },
+    {
+      "id": "797f78d7-2c4a-4a92-905c-a80cb3f1c6a9",
+      "trackRef": {
+        "source": "metadata-repository",
+        "key": "Becky Hill/Becky_Hill_-_Full_Set_Live_at_Capital_s_Summertime_Ball_2024_Capital.mp3"
+      },
+      "position": 8
+    },
+    {
+      "id": "7885b576-2237-460d-8eac-e89af5ab0ff8",
+      "trackRef": {
+        "source": "metadata-repository",
+        "key": "SWITCH DISCO - THE SYDNEY HARBOUR SET (House, Afro, Melodic DJ Mix) [l4yp3-h3A3Y].opus"
+      },
+      "position": 9
+    },
+    {
+      "id": "8bcc9d7e-6338-4338-afb5-b4f1116b49d0",
+      "trackRef": {
+        "source": "metadata-repository",
+        "key": "David Guetta/David Guetta Presents Galactic Circus Live From [UNVRS] Ibiza [lSk-DWAJPbA].opus"
+      },
+      "position": 10
+    },
+    {
+      "id": "14bc3afe-6fc2-41bc-a908-be4b2b5cd106",
+      "trackRef": {
+        "source": "metadata-repository",
+        "key": "David Guetta & MORTEN/David Guetta & MORTEN ｜ Future Rave Live @ SOUNDSTORM 2024 [_aR_OwHJQwc].opus"
+      },
+      "position": 11
+    },
+    {
+      "id": "7199e466-5899-4523-bcc3-68095523ae7d",
+      "trackRef": {
+        "source": "metadata-repository",
+        "key": "MIKA/MIKA_BERCY_2024_-_ACCOR_ARENA_PARIS_25.03.24.mp3"
+      },
+      "position": 12
+    },
+    {
+      "id": "2023554b-e47a-4d46-9399-af4011455fb8",
+      "trackRef": {
+        "source": "metadata-repository",
+        "key": "D.O.D LIVE @ WAREHOUSE PROJECT, MANCHESTER [fzPvVGLcRsI].opus"
+      },
+      "position": 13
+    },
+    {
+      "id": "14ae4f5b-522b-4011-84fd-fe4d871b792d",
+      "trackRef": {
+        "source": "metadata-repository",
+        "key": "Daði Freyr/Daoi_Freyr_-_live_at_Pinkpop_2023.mp3"
+      },
+      "position": 14
+    },
+    {
+      "id": "a01cd129-5b04-44cf-84b7-6750b121bbcc",
+      "trackRef": {
+        "source": "metadata-repository",
+        "key": "Above & Beyond： Live from EDC Las Vegas 2026 (Official Full Set) [OI02QgEA1Zw].opus"
+      },
+      "position": 15
+    },
+    {
+      "id": "8c595356-c27b-4f7d-9620-9bd307281e14",
+      "trackRef": {
+        "source": "metadata-repository",
+        "key": "Above & Beyond/Radio 1 Dance Presents..., Anjunabeats Above & Beyond.mp4"
+      },
+      "position": 16
+    },
+    {
+      "id": "833aa465-66e9-46e9-90ca-e0a7fee7d602",
+      "trackRef": {
+        "source": "metadata-repository",
+        "key": "Above & Beyond/Above & Beyond - Live @ Creamfields 2017 in Liverpool (05.08.17).mp3"
+      },
+      "position": 17
+    },
+    {
+      "id": "41d660bd-7f1c-4968-bc0b-52235d9f1a68",
+      "trackRef": {
+        "source": "metadata-repository",
+        "key": "Above & Beyond/Above & Beyond - Live @ Radio 1 Party, Cream, Privilege in Ibiza (02.08.14).mp3"
+      },
+      "position": 18
+    }
+  ]
 }
